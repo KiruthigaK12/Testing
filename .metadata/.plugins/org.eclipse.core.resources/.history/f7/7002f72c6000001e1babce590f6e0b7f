@@ -1,0 +1,10 @@
+package src.test.java.com.Selenium.BasicApp;
+
+public class BasicSelenium {
+	public static void main(String args[])
+	{
+		
+	}
+	
+
+}

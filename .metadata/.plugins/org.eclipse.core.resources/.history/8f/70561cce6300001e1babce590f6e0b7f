@@ -1,0 +1,10 @@
+package src.test.java.com.Selenium.BasicApp;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
